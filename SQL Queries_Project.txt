@@ -1,0 +1,15 @@
+SQL Queries
+
+
+1)Find the names of artists who have recorded more than one song
+2)List the most populous sung by an artist
+3)List the albums whose downloads count have exceeded 1000
+4)List all the romantic albums recorded by "Kumar Sanu"
+5)List all the composers who have been born after 1980, and whose albums have been downloaded more than 500 times
+6)List all the songs produced by male producers whose sales have crossed 450
+7)List all the patriotic songs recorded by multiple artists produced after 1990
+8)Delete all the songs by "Sonu Nigam" , update the database with songs of Atif Aslam
+9)Find out the names of all composers aging below 25 who have composed atmost 2 songs
+10)List all the songs produced under the banner "Eros", also sung by "Akriti Kakkar"
+11)List all the songs sung by "Atif Aslam" under the banner "T-Music" after 2005
+12)List the total downloads' count
